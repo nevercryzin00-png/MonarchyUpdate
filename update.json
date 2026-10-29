@@ -1,0 +1,8 @@
+{
+  "latest_version": 4,
+  "minimum_version": 4,
+  "exact_version_only": true,
+  "force_update": true,
+  "update_message": "Você precisa atualizar o Monarchy Clube para a versão 4 para continuar.",
+  "download_url": "https://github.com/nevercryzin00-png/Monarchy/releases/latest"
+}
